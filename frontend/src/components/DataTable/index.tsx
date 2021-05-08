@@ -1,6 +1,5 @@
 import axios from "axios";
 import Pagination from "components/Pagination";
-import { CONNREFUSED } from "node:dns";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sales";
 import { formatLocalDate } from "utils/format";
